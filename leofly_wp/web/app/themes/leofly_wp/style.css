@@ -635,6 +635,15 @@ textarea {
 }
 
 /* texte a droite de la photo des membres */
+.homepage_box1 {
+  height: 25px;
+  margin-top: 25px;
+}
+
+.homepage_box2 {
+  height: 70px;
+}
+
 .text_homepage {
   width: 40%;
   height: auto;
@@ -650,6 +659,8 @@ textarea {
 .text_homepage_3 {
   margin-left: 25px;
   margin-top: 15px;
+  width: 60%;
+  line-height: 22px;
 }
 
 .titre_homepage {
