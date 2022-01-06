@@ -611,6 +611,47 @@ textarea {
   width: 100%;
 }
 
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* HOME PAGE */
+.premiere_description {
+  width: 65%;
+  height: 450px;
+  border: solid 1px red;
+  display: flex;
+  margin-left: 18%;
+  margin-top: 2%;
+  justify-content: space-evenly;
+}
+
+.text_homepage {
+  width: 40%;
+  height: auto;
+  border: solid 1px blue;
+}
+
+.titre_homepage {
+  font-family: komet, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.notre_histoire {
+  width: 35%;
+  height: 40px;
+  border: double 2px #FF6600;
+}
+
+.bouton_homepage {
+  font-weight: bold;
+  color: #FF6600;
+  padding-top: 3px;
+  padding-left: 13px;
+}
+
 /*--------------------------------------------------------------
 # Layouts
 --------------------------------------------------------------*/
