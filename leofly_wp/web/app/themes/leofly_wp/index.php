@@ -52,6 +52,41 @@ get_header();
 
     <section class="timer_homepage"></section>
 
+    <section class="deuxième_description">
+
+        <div class="text_projet_homepage">
+
+                <div class="box_homepage1_part2">
+            <p>Nos<p>
+                </div>
+                <div class="box_homepage2_part2">
+            <h1>Projets</h1>
+                </div>
+                <div class="box_homepage3_part2">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quas deserunt facilis perferendis odit tenetur id iure animi inventore ipsam maxime, quibusdam, itaque accusamus enim saepe esse impedit, culpa quo!</p>
+                </div>
+
+                <div class="bouton_voirplus_homepage">
+                <p class="text_bouton_voirplus_homepage">Voir plus</p>
+                </div>
+        </div>
+
+        <img src="app/themes/leofly_wp/img/Groupe_28.png" alt="décoration verticale pour le site" >
+
+        <div class="image_projet_homepage">
+        <img class="image_projet_homepage_taille" src="app/themes/leofly_wp/img/Groupe_de_masques_23.png" alt="photo de description de projet">
+        <img class="image_projet_homepage_taille" src="app/themes/leofly_wp/img/Groupe_de_masques_24.png" alt="photo de description de projet">
+        <img class="image_projet_homepage_taille" src="app/themes/leofly_wp/img/MicrosoftTeams-image.png" alt="photo de description de projet">
+        </div>
+
+
+
+
+
+
+    
+    </section>
+
 </body>
 </html>
 
