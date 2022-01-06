@@ -32,18 +32,19 @@ get_header();
     
     <section class="premiere_description">
 
-        <img class="membre_superman" src="#" alt="membres de léofly faisant la pose">
-        <img class="decoration_site" src="#" alt="décoration verticale pour le site">
+        <img class="membre_superman" src="app/themes/leofly_wp/img/LF_Bureau_50.png" alt="membres de léofly faisant la pose">
+        <img class="decoration_site" src="app/themes/leofly_wp/img/Groupe_28.png" alt="décoration verticale pour le site">
         <div class="text_homepage">
-        <p>L'assocation</p>
+        <p class="text_homepage_2">L'assocation</p>
         <h1 class="titre_homepage">Leo'Fly</h1>
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perferendis similique repudiandae soluta maxime omnis dolore, nostrum cum, magnam suscipit nisi quo ducimus obcaecati quos eum, ea ipsum ad eveniet ipsa.</p>
+        <p class="text_homepage_3">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perferendis similique repudiandae soluta maxime omnis dolore, nostrum cum, magnam suscipit nisi quo ducimus obcaecati quos eum, ea ipsum ad eveniet ipsa.</p>
         <div class="notre_histoire">
             <p class="bouton_homepage"> Notre Histoire </p>
         </div>
         </div>
-
     </section>
+
+    <section class="timer_homepage"></section>
 
 </body>
 </html>

@@ -27,31 +27,56 @@
 /* HOME PAGE */
 
 .premiere_description{
-    width: 65%;
+    width: 75%;
     height: 450px;
-    border: solid 1px red;
     display: flex;
-    margin-left: 18%;
+    margin-left: 15%;
     margin-top: 2%;
     justify-content: space-evenly;
+    margin-top: 50px;
+    
 }
+
+/* Photo des membres faisant superman */
+
+.membre_superman{
+    width: 490px;
+    height: 90%;
+    margin-top: 25px;
+}
+
+/* texte a droite de la photo des membres */
 
 .text_homepage{
     width: 40%;
     height: auto;
-    border: solid 1px blue;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.text_homepage_2{
+    margin-left: 25px;
+    margin-top: 25px;
+    
+}
+
+.text_homepage_3{
+    margin-left: 25px;
+    margin-top: 15px;
 }
 
 .titre_homepage{
     font-family: komet,sans-serif;
-    font-weight: 700;
-    font-style: normal;
+    margin-left: 25px;
 }
 
 .notre_histoire{
-    width: 35%;
+    width: 40%;
     height: 40px;
     border: double 2px #FF6600;
+    margin-left: 25px;
+
 }
 
 .bouton_homepage{
@@ -59,4 +84,12 @@
     color: #FF6600;
     padding-top: 3px;
     padding-left: 13px;
+}
+
+.timer_homepage{
+    width: 100%;
+    height: 350px;
+    background-color: #122641;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
