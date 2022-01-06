@@ -753,6 +753,43 @@ textarea {
   margin-top: 3px;
 }
 
+/* Bas de la home page */
+.titre_principaux_membres_homepage {
+  margin-top: 100px;
+  margin-left: 35px;
+}
+
+.membres_principaux_homepage {
+  height: 350px;
+  width: 90%;
+  margin-left: 90px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.noms_membres_principaux_homepage {
+  width: 90%;
+  margin-left: 90px;
+  display: flex;
+  justify-content: space-between;
+  height: 100px;
+  margin-bottom: 25px;
+}
+
+.bande_noms_membres_principaux_homepage {
+  width: 28.5%;
+  background-color: #122641;
+  height: auto;
+}
+
+.titre_noms_membres_principaux_homepage {
+  color: #FFFFFF;
+  text-align: center;
+  margin-top: 30px;
+  font-weight: bold;
+  font-size: 22px;
+}
+
 /*--------------------------------------------------------------
 # Layouts
 --------------------------------------------------------------*/

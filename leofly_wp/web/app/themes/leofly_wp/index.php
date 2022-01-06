@@ -78,13 +78,31 @@ get_header();
         <img class="image_projet_homepage_taille" src="app/themes/leofly_wp/img/Groupe_de_masques_24.png" alt="photo de description de projet">
         <img class="image_projet_homepage_taille" src="app/themes/leofly_wp/img/MicrosoftTeams-image.png" alt="photo de description de projet">
         </div>
+    </section>
+
+        <h1 class="titre_principaux_membres_homepage">Principaux Membres</h1>
+
+    <section class="membres_principaux_homepage">
+    <img class="images_membres_principaux_homepage" src="app/themes/leofly_wp/img/Groupe_de_masques_2.png" alt="photo des principaux membres de l'association">
+    <img class="images_membres_principaux_homepage" src="app/themes/leofly_wp/img/Groupe_de_masques_3.png" alt="photo des principaux membres de l'association">
+    <img class="images_membres_principaux_homepage" src="app/themes/leofly_wp/img/Groupe_de_masques_1.png" alt="photo des principaux membres de l'association">
+    </section>
+
+    <section class="noms_membres_principaux_homepage">
+
+    <div class="bande_noms_membres_principaux_homepage">
+    <p class="titre_noms_membres_principaux_homepage">Président</p>
+    </div>
+
+    <div class="bande_noms_membres_principaux_homepage">
+    <p class="titre_noms_membres_principaux_homepage">Vice - President</p>
+    </div>
+
+    <div class="bande_noms_membres_principaux_homepage">
+    <p class="titre_noms_membres_principaux_homepage">Respo - Comm</p>
+    </div>
 
 
-
-
-
-
-    
     </section>
 
 </body>
