@@ -679,8 +679,8 @@ textarea {
 .bouton_homepage {
   font-weight: bold;
   color: #FF6600;
-  padding-top: 4px;
-  padding-left: 30px;
+  padding-top: 5px;
+  padding-left: 45px;
 }
 
 .timer_homepage {
@@ -739,12 +739,14 @@ textarea {
 }
 
 .bouton_voirplus_homepage {
-  border: solid 2px #1C4879;
+  
   background-color: #FF6600;
   width: 17%;
   height: 35px;
   margin-top: 95px;
   margin-left: 45px;
+  padding-left: 13px;
+  padding-top: 2px;
 }
 
 .text_bouton_voirplus_homepage {
@@ -762,14 +764,14 @@ textarea {
 .membres_principaux_homepage {
   height: 350px;
   width: 90%;
-  margin-left: 90px;
+  margin-left: 42px;
   display: flex;
   justify-content: space-between;
 }
 
 .noms_membres_principaux_homepage {
   width: 90%;
-  margin-left: 90px;
+  margin-left: 42px;
   display: flex;
   justify-content: space-between;
   height: 100px;
@@ -777,7 +779,7 @@ textarea {
 }
 
 .bande_noms_membres_principaux_homepage {
-  width: 28.5%;
+  width: 26%;
   background-color: #122641;
   height: auto;
 }
@@ -1090,11 +1092,16 @@ textarea {
   margin-bottom: 1.5em;
 }
 
+* {
+  margin: 0;
+  padding: 0;
+}
 
 /*# sourceMappingURL=style.css.map */
 
 /*footer style*/
 .footer {
+  
   display: flex;
   background-color: #222222;
   width: 100%;
@@ -1176,6 +1183,7 @@ textarea {
   text-decoration: none;
   margin-right: 55px;
   
+  
 }
 
 
@@ -1226,8 +1234,64 @@ textarea {
     width: 34px;
     height: 34px;
     margin-top: 28px;
-    margin-left: 5px;
+    margin-left: 8px;
 }
+
+
+
+.navbar_menu ul {
+  list-style-type: none;
+}
+
+.navbar_menu ul li {
+  float: left;
+  text-align: center;
+}
+
+.navbar_menu ul::after{
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.sous {
+  display: none;
+  color: white;
+  background-color: #222222;
+  position: absolute;
+  width: 100%;
+  z-index: 1000;
+}
+
+.sous a {
+
+  padding: 10px;
+  border-bottom: none;
+}
+
+.sous a:hover{
+  border-bottom: none;
+  background-color: black;
+}
+
+.navbar_menu > ul .li:hover .sous{
+  display: block;
+}
+
+.sous li {
+  float: none;
+  width: 100%;
+  text-align: left;
+
+}
+
+.navbar_menu .ul li {
+  position: relative;
+  float: left;
+  text-align: center;
+}
+
+
 
 
 .alignright {

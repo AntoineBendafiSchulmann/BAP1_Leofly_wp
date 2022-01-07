@@ -1,4 +1,7 @@
 <?php
+
+/* Template Name: bureau */
+
 /**
  * The main template file
  *

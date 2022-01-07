@@ -1,4 +1,7 @@
 <?php
+
+/* Template Name: partenaires */
+
 /**
  * The main template file
  *

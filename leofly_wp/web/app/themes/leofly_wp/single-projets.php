@@ -1,4 +1,7 @@
 <?php
+
+/* Template Name: projects */
+
 /**
  * The main template file
  *

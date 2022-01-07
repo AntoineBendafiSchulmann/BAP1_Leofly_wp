@@ -1,4 +1,7 @@
 <?php
+
+/* Template Name: histoire */
+
 /**
  * The main template file
  *

@@ -34,21 +34,39 @@
 
 		<img  class="logonav" src="app/uploads/2022/01/LeoFly-blanc-fond-transparent.png" alt="imginst">
 
-		<div class="nav_menus">
+		<ul class="nav_menus">
 
-		
+		<li>
 		<a class="navlinks" href="#"><p class="linknav leftspace">Accueil</p></a>
+		<li>
 
-    	<a class="navlinks" href="#"><p class="linknav">Nos travaux</p></a>
 
+    	<a class="navlinks " href="#"><p class="linknav">Nos travaux</p></a>
+			<ul  class="sous">
+					<li class="undermenu"><a href="#">Projets</a></li>
+					<li class="undermenu"><a href="#">Événements</a></li>
+					<li class="undermenu"><a href="#">Articles</a></li>
+			</ul>
+		</li>
+
+		<li>
     	<a class="navlinks" href="#"><p class="linknav">L'équipe</p></a>
+			<ul  class="sous">
+					<li class="undermenu"><a href="#">Membres du bureau</a></li>
+					<li class="undermenu"><a href="#">Membres d'honneur</a></li>
+					<li class="undermenu"><a href="#">Membres</a></li>
+			</ul>
+		</li>
 
+		<li>
 		<a class="navlinks" href="#"><p class="linknav">Nous contacter</p></a>
+		</li>
 
+		<li>
 		<a class="navlinks" href="#"><p class="linknav">Partenaires</p></a>
+		</li>
 		
-
-		</div>
+		</ul>
 
 		<div >
 

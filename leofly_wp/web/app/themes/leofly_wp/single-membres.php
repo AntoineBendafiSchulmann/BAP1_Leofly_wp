@@ -1,4 +1,7 @@
 <?php
+
+/* Template Name: randommenmbers */
+
 /**
  * The main template file
  *
