@@ -28,12 +28,12 @@ get_header();
 </head>
 <body>
     
-    <img class="patrouille_chasseur" src="app/themes/leofly_wp/img/patrouille_de_chasseur_français.png" alt="patrouille de chasseur français dans les airs">
+    <img class="patrouille_chasseur" src="app/uploads/2022/01/patrouille_de_chasseur_francais.png" alt="patrouille de chasseur français dans les airs">
     
     <section class="premiere_description">
 
-        <img class="membre_superman" src="app/themes/leofly_wp/img/LF_Bureau_50.png" alt="membres de léofly faisant la pose">
-        <img class="decoration_site" src="app/themes/leofly_wp/img/Groupe_28.png" alt="décoration verticale pour le site">
+        <img class="membre_superman" src="app/uploads/2022/01/LF_Bureau_50.png" alt="membres de léofly faisant la pose">
+        <img class="decoration_site" src="app/uploads/2022/01/Groupe_28.png" alt="décoration verticale pour le site">
         <div class="text_homepage">
             <div class="homepage_box1">
         <p class="text_homepage_2">L'assocation</p>
@@ -51,6 +51,59 @@ get_header();
     </section>
 
     <section class="timer_homepage"></section>
+
+    <section class="deuxième_description">
+
+        <div class="text_projet_homepage">
+
+                <div class="box_homepage1_part2">
+            <p>Nos<p>
+                </div>
+                <div class="box_homepage2_part2">
+            <h1>Projets</h1>
+                </div>
+                <div class="box_homepage3_part2">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quas deserunt facilis perferendis odit tenetur id iure animi inventore ipsam maxime, quibusdam, itaque accusamus enim saepe esse impedit, culpa quo!</p>
+                </div>
+
+                <div class="bouton_voirplus_homepage">
+                <p class="text_bouton_voirplus_homepage">Voir plus</p>
+                </div>
+        </div>
+
+        <img src="app/uploads/2022/01/Groupe_28.png" alt="décoration verticale pour le site" >
+
+        <div class="image_projet_homepage">
+        <img class="image_projet_homepage_taille" src="app/uploads/2022/01/Groupe_de_masques_23.png" alt="photo de description de projet">
+        <img class="image_projet_homepage_taille" src="app/uploads/2022/01/Groupe_de_masques_24.png" alt="photo de description de projet">
+        <img class="image_projet_homepage_taille" src="app/uploads/2022/01/MicrosoftTeams-image.png" alt="photo de description de projet">
+        </div>
+    </section>
+
+        <h1 class="titre_principaux_membres_homepage">Principaux Membres</h1>
+
+    <section class="membres_principaux_homepage">
+    <img class="images_membres_principaux_homepage" src="app/uploads/2022/01/Groupe_de_masques_2.png" alt="photo des principaux membres de l'association">
+    <img class="images_membres_principaux_homepage" src="app/uploads/2022/01/Groupe_de_masques_3.png" alt="photo des principaux membres de l'association">
+    <img class="images_membres_principaux_homepage" src="app/uploads/2022/01/Groupe_de_masques_1.png" alt="photo des principaux membres de l'association">
+    </section>
+
+    <section class="noms_membres_principaux_homepage">
+
+    <div class="bande_noms_membres_principaux_homepage">
+    <p class="titre_noms_membres_principaux_homepage">Président</p>
+    </div>
+
+    <div class="bande_noms_membres_principaux_homepage">
+    <p class="titre_noms_membres_principaux_homepage">Vice - President</p>
+    </div>
+
+    <div class="bande_noms_membres_principaux_homepage">
+    <p class="titre_noms_membres_principaux_homepage">Respo - Comm</p>
+    </div>
+
+
+    </section>
 
 </body>
 </html>
