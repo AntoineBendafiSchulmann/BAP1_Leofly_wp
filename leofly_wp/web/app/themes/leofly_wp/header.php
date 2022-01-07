@@ -41,7 +41,7 @@
 
     	<a class="navlinks" href="#"><p class="linknav">Nos travaux</p></a>
 
-    	<a class="navlinks" href="#"><p class="linknav">L'équipe</p></a>
+    	<a class="navlinks" href="single-membres-bureau.php"><p class="linknav">L'équipe</p></a>
 
 		<a class="navlinks" href="#"><p class="linknav">Nous contacter</p></a>
 
