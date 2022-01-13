@@ -680,11 +680,7 @@ textarea {
   font-weight: bold;
   color: #FF6600;
   padding-top: 5px;
-<<<<<<< HEAD
   padding-left: 45px;
-=======
-  padding-left: 35px;
->>>>>>> BOURNIZEL
 }
 
 .timer_homepage {
@@ -743,10 +739,7 @@ textarea {
 }
 
 .bouton_voirplus_homepage {
-<<<<<<< HEAD
   
-=======
->>>>>>> BOURNIZEL
   background-color: #FF6600;
   width: 17%;
   height: 35px;
@@ -758,14 +751,14 @@ textarea {
 
 .text_bouton_voirplus_homepage {
   color: #FFFFFF;
-  margin-left: 32px;
-  padding-top: 4px;
+  margin-left: 30px;
+  margin-top: 3px;
 }
 
 /* Bas de la home page */
 .titre_principaux_membres_homepage {
   margin-top: 100px;
-  margin-left: 87px;
+  margin-left: 35px;
 }
 
 .membres_principaux_homepage {
@@ -797,64 +790,6 @@ textarea {
   margin-top: 30px;
   font-weight: bold;
   font-size: 22px;
-  padding-left: 3px;
-}
-
-.titre_noms_membres_principaux_homepage2 {
-  color: #FFFFFF;
-  text-align: center;
-  margin-top: 30px;
-  font-weight: bold;
-  font-size: 22px;
-  padding-right: 4px;
-}
-
-.image-membre-top {
-  width: 100%;
-  height: 600px;
-}
-
-.textmembretop {
-  margin-left: 25px;
-  margin-top: 80px;
-}
-
-.textmembretop2 {
-  margin-left: 25px;
-  margin-bottom: 20px;
-}
-
-.premiere-ligne-photo {
-  width: 97%;
-  height: 280px;
-  display: flex;
-  justify-content: space-between;
-  margin-left: 25px;
-}
-
-.photo-premiere-ligne {
-  width: 350px;
-  height: 280px;
-}
-
-.titre-premiere-ligne-photo {
-  width: 97%;
-  height: 150px;
-  display: flex;
-  justify-content: space-between;
-  margin-left: 25px;
-}
-
-.text-premiere-ligne-photo {
-  width: 350px;
-  height: 70px;
-  background-color: #122641;
-}
-
-.president-photo-text-premiere-ligne {
-  color: white;
-  text-align: center;
-  margin-top: 22px;
 }
 
 /*--------------------------------------------------------------
@@ -1157,7 +1092,6 @@ textarea {
   margin-bottom: 1.5em;
 }
 
-<<<<<<< HEAD
 * {
   margin: 0;
   padding: 0;
@@ -1311,7 +1245,7 @@ textarea {
 
 .navbar_menu ul li {
   float: left;
-  text-align: center;
+ 
 }
 
 .navbar_menu ul::after{
@@ -1340,9 +1274,6 @@ textarea {
   background-color: black;
 }
 
-.navbar_menu > ul .li:hover .sous{
-  display: block;
-}
 
 .sous li {
   float: none;
@@ -1376,6 +1307,4 @@ textarea {
   margin-bottom: 1.5em;
 }
 
-=======
->>>>>>> BOURNIZEL
 /*# sourceMappingURL=style.css.map */

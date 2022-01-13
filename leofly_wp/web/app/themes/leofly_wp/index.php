@@ -21,16 +21,6 @@
 get_header();
 ?>
 
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.scss">
-    <title>home page</title>
-    <link rel="stylesheet" href="https://use.typekit.net/bah6hrm.css">
-</head>
 <body>
     
     <img class="patrouille_chasseur" src="app/uploads/2022/01/Groupe-de-masques-5.png" alt="patrouille de chasseur français dans les airs">
@@ -106,7 +96,7 @@ get_header();
     <section class="noms_membres_principaux_homepage">
 
     <div class="bande_noms_membres_principaux_homepage">
-    <p class="titre_noms_membres_principaux_homepage2">Président</p>
+    <p class="titre_noms_membres_principaux_homepage">Président</p>
     </div>
 
     <div class="bande_noms_membres_principaux_homepage">
