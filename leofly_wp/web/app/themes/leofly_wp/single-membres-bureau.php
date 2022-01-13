@@ -1,11 +1,8 @@
 <?php
 
-<<<<<<< HEAD
 /* Template Name: bureau */
-=======
 /* Template Name: PageWithoutSidebar */
 
->>>>>>> BOURNIZEL
 
 /**
  * The main template file

@@ -16,7 +16,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href=" <?php echo get_template_directory_uri()?>/style.scss">
+    <link rel="stylesheet" href="style.scss">
     
 
 	<?php wp_head(); ?>
@@ -41,7 +41,6 @@
 		<li>
 
 
-<<<<<<< HEAD
     	<a class="navlinks " href="#"><p class="linknav">Nos travaux</p></a>
 			<ul  class="sous">
 					<li class="undermenu"><a href="#">Projets</a></li>
@@ -49,9 +48,6 @@
 					<li class="undermenu"><a href="#">Articles</a></li>
 			</ul>
 		</li>
-=======
-    	<a class="navlinks" href="<?php echo get_template_directory_uri()?>/single-membres-bureau.php"><p class="linknav">L'équipe</p></a>
->>>>>>> BOURNIZEL
 
 		<li>
     	<a class="navlinks" href="#"><p class="linknav">L'équipe</p></a>
