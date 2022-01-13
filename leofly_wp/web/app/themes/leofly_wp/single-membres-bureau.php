@@ -1,7 +1,7 @@
 <?php
 
 /* Template Name: bureau */
-/* Template Name: PageWithoutSidebar */
+
 
 
 /**
@@ -20,30 +20,18 @@
 get_header();
 ?>
 
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Membres</title>
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="https://use.typekit.net/bah6hrm.css">
-
-
-</head>
 <body>
     
-    <img class="image-membre-top"  src="../membres/img/LF_Bureau_41.png">
+    <img class="image-membre-top"  src="/app/uploads/2022/01/LF_Bureau_41.png">
 
     <p class="textmembretop">Membres du</p>
     <h1 class="textmembretop2">Bureau</h1>
 
     <section class="premiere-ligne-photo">
-    <img class="photo-premiere-ligne" src="../membres/img/Groupe de masques 1.png">
-    <img class="photo-premiere-ligne" src="../membres/img/Groupe de masques 2.png">
-    <img class="photo-premiere-ligne" src="../membres/img/Groupe de masques 3.png">
-    <img class="photo-premiere-ligne" src="../membres/img/Groupe de masques 4.png">
+    <img class="photo-premiere-ligne" src="/app/uploads/2022/01/Groupe-de-masques-1.png">
+    <img class="photo-premiere-ligne" src="/app/uploads/2022/01/Groupe-de-masques-2.png">
+    <img class="photo-premiere-ligne" src="/app/uploads/2022/01/Groupe-de-masques-3.png">
+    <img class="photo-premiere-ligne" src="/app/uploads/2022/01/Groupe-de-masques-4.png">
     </section>
 
     <section class="titre-premiere-ligne-photo">
@@ -57,10 +45,10 @@ get_header();
 
 
     <section class="premiere-ligne-photo">
-        <img class="photo-premiere-ligne" src="../membres/img/Groupe de masques 6.png">
-        <img class="photo-premiere-ligne" src="../membres/img/Groupe de masques 7.png">
-        <img class="photo-premiere-ligne" src="../membres/img/Groupe de masques 8.png">
-        <img class="photo-premiere-ligne" src="../membres/img/Groupe de masques 9.png">
+        <img class="photo-premiere-ligne" src="/app/uploads/2022/01/Groupe-de-masques-6.png">
+        <img class="photo-premiere-ligne" src="/app/uploads/2022/01/Groupe-de-masques-7.png">
+        <img class="photo-premiere-ligne" src="/app/uploads/2022/01/Groupe-de-masques-8.png">
+        <img class="photo-premiere-ligne" src="/app/uploads/2022/01/Groupe-de-masques-9.png">
         </section>
     
         <section class="titre-premiere-ligne-photo">
@@ -74,10 +62,10 @@ get_header();
 
 
         <section class="premiere-ligne-photo">
-            <img class="photo-premiere-ligne" src="../membres/img/Groupe de masques 10.png">
-            <img class="photo-premiere-ligne" src="../membres/img/Groupe de masques 11.png">
-            <img class="photo-premiere-ligne" src="../membres/img/Groupe de masques 12.png">
-            <img class="photo-premiere-ligne" src="../membres/img/Groupe de masques 13.png">
+            <img class="photo-premiere-ligne" src="/app/uploads/2022/01/Groupe-de-masques-10.png">
+            <img class="photo-premiere-ligne" src="/app/uploads/2022/01/Groupe-de-masques-11.png">
+            <img class="photo-premiere-ligne" src="/app/uploads/2022/01/Groupe-de-masques-12.png">
+            <img class="photo-premiere-ligne" src="/app/uploads/2022/01/Groupe-de-masques-13.png">
             </section>
         
             <section class="titre-premiere-ligne-photo">

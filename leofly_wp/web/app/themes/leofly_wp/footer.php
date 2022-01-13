@@ -27,7 +27,7 @@
 
 <div class="logofooter">
 
-<img class="logofoot" src="app/uploads/2022/01/Logo-LeoFly-Bleu-Sans-Fond-Vectoriel.png" alt="imgfoot">
+<img class="logofoot" src="/app/uploads/2022/01/Logo-LeoFly-Bleu-Sans-Fond-Vectoriel.png" alt="imgfoot">
 
 </div>
 
@@ -40,23 +40,23 @@
 <div class="socialnet">
 
 <a class="socialink" href="#">
-<img  class="logo" src="app/uploads/2022/01/Icon-awesome-instagram.png" alt="imginst">
+<img  class="logo" src="/app/uploads/2022/01/Icon-awesome-instagram.png" alt="imginst">
 </a>
 
 <a class="socialink" href="#">
-<img class="logo" src="app/uploads/2022/01/Icon-awesome-facebook.png" alt="imgfb">
+<img class="logo" src="/app/uploads/2022/01/Icon-awesome-facebook.png" alt="imgfb">
 </a>
 
 <a class="socialink" href="#">
-<img class="logo" src="app/uploads/2022/01/Icon-awesome-linkedin-in.png" alt="imglinkdn">
+<img class="logo" src="/app/uploads/2022/01/Icon-awesome-linkedin-in.png" alt="imglinkdn">
 </a>
 
 <a class="socialink" href="#">
-<img class="logo" src="app/uploads/2022/01/Trace-74.png" alt="imgyt">
+<img class="logo" src="/app/uploads/2022/01/Trace-74.png" alt="imgyt">
 </a>
 
 <a class="socialink" href="#">
-<img class="logo" src="app/uploads/2022/01/Trace-102.png" alt="imgtwitter">
+<img class="logo" src="/app/uploads/2022/01/Trace-102.png" alt="imgtwitter">
 </a>
 
 
