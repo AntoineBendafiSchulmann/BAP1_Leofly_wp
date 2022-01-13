@@ -37,7 +37,7 @@
 		<ul class="nav_menus">
 
 		<li>
-		<a class="navlinks" href="#"><p class="linknav leftspace">Accueil</p></a>
+		<a class="navlinks" href="index.php"><p class="linknav leftspace">Accueil</p></a>
 		<li>
 
 
