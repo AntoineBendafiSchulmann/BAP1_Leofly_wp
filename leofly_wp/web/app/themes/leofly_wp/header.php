@@ -32,7 +32,7 @@
 
 		<nav class="navbar_menu">
 
-		<img  class="logonav" src="app/uploads/2022/01/LeoFly-blanc-fond-transparent.png" alt="imginst">
+		<img  class="logonav" src="/app/uploads/2022/01/LeoFly-blanc-fond-transparent.png" alt="imginst">
 
 		<ul class="nav_menus">
 
@@ -77,8 +77,8 @@
 
 		<div class="languagediv">
 
-		<img  class="langchange" src="app/uploads/2022/01/Icon-ionic-ios-arrow-down.png" alt="imginst">
-		<img  class="flaglang" src="app/uploads/2022/01/france.png" alt="imginst">
+		<img  class="langchange" src="/app/uploads/2022/01/Icon-ionic-ios-arrow-down.png" alt="imginst">
+		<img  class="flaglang" src="/app/uploads/2022/01/france.png" alt="imginst">
 		</div>
 
 		</nav><!-- #site-navigation -->
