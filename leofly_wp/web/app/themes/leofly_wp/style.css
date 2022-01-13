@@ -680,11 +680,8 @@ textarea {
   font-weight: bold;
   color: #FF6600;
   padding-top: 5px;
-<<<<<<< HEAD
   padding-left: 45px;
-=======
   padding-left: 35px;
->>>>>>> BOURNIZEL
 }
 
 .timer_homepage {
@@ -743,10 +740,7 @@ textarea {
 }
 
 .bouton_voirplus_homepage {
-<<<<<<< HEAD
   
-=======
->>>>>>> BOURNIZEL
   background-color: #FF6600;
   width: 17%;
   height: 35px;
@@ -1157,7 +1151,6 @@ textarea {
   margin-bottom: 1.5em;
 }
 
-<<<<<<< HEAD
 * {
   margin: 0;
   padding: 0;
@@ -1376,6 +1369,4 @@ textarea {
   margin-bottom: 1.5em;
 }
 
-=======
->>>>>>> BOURNIZEL
 /*# sourceMappingURL=style.css.map */
