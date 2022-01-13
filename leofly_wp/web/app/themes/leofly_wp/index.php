@@ -106,7 +106,7 @@ get_header();
     <section class="noms_membres_principaux_homepage">
 
     <div class="bande_noms_membres_principaux_homepage">
-    <p class="titre_noms_membres_principaux_homepage">Président</p>
+    <p class="titre_noms_membres_principaux_homepage2">Président</p>
     </div>
 
     <div class="bande_noms_membres_principaux_homepage">
