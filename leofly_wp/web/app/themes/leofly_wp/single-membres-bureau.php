@@ -1,7 +1,7 @@
 <?php
 
 /* Template Name: bureau */
-/* Template Name: PageWithoutSidebar */
+
 
 
 /**
@@ -20,18 +20,7 @@
 get_header();
 ?>
 
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Membres</title>
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="https://use.typekit.net/bah6hrm.css">
 
-
-</head>
 <body>
     
     <img class="image-membre-top"  src="../membres/img/LF_Bureau_41.png">
@@ -40,8 +29,8 @@ get_header();
     <h1 class="textmembretop2">Bureau</h1>
 
     <section class="premiere-ligne-photo">
-    <img class="photo-premiere-ligne" src="../membres/img/Groupe de masques 1.png">
-    <img class="photo-premiere-ligne" src="../membres/img/Groupe de masques 2.png">
+    <img class="photo-premiere-ligne" src="/app/uploads/2022/01/Groupe-de-masques-1-1.png">
+    <img class="photo-premiere-ligne" src="app/uploads/2022/01/Groupe-de-masques-2.png">
     <img class="photo-premiere-ligne" src="../membres/img/Groupe de masques 3.png">
     <img class="photo-premiere-ligne" src="../membres/img/Groupe de masques 4.png">
     </section>
