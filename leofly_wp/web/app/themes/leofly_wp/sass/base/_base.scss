@@ -218,3 +218,53 @@ margin-top: 25px;
     font-size: 22px;
     padding-right: 4px;
 }
+
+.image-membre-top{
+    width: 100%;
+    height: 600px;
+}
+
+.textmembretop{
+    margin-left: 25px;
+    margin-top: 80px;
+
+}
+
+.textmembretop2{
+    margin-left: 25px;
+    margin-bottom: 20px;
+}
+
+.premiere-ligne-photo{
+    width: 97%;
+    height: 280px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 25px;
+}
+
+.photo-premiere-ligne{
+    width: 350px;
+    height: 280px;
+}
+
+
+.titre-premiere-ligne-photo{
+    width: 97%;
+    height: 150px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 25px;
+}
+
+.text-premiere-ligne-photo{
+    width: 350px;
+    height: 70px;
+    background-color: #122641;
+}
+
+.president-photo-text-premiere-ligne{
+    color: white;
+    text-align: center;
+    margin-top: 22px;
+}
