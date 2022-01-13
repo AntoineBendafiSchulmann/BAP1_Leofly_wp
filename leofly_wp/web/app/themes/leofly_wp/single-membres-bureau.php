@@ -1,6 +1,8 @@
 <?php
 
 /* Template Name: bureau */
+/* Template Name: PageWithoutSidebar */
+
 
 /**
  * The main template file
