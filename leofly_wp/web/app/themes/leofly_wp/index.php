@@ -99,7 +99,7 @@ get_header();
 
     <section class="membres_principaux_homepage">
     <img class="images_membres_principaux_homepage" src="app/uploads/2022/01/Groupe_de_masques_2.png" alt="photo des principaux membres de l'association">
-    <img class="images_membres_principaux_homepage" src="app/uploads/2022/01/Groupe-de-masques-1.png" alt="photo des principaux membres de l'association">
+    <img class="images_membres_principaux_homepage" src="http://localhost:8000/app/uploads/2022/01/Groupe_de_masques_3.png" alt="photo des principaux membres de l'association">
     <img class="images_membres_principaux_homepage" src="app/uploads/2022/01/Groupe_de_masques_1.png" alt="photo des principaux membres de l'association">
     </section>
 
